@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1077194786297",
+    "project_id": "alwar-team",
+    "storage_bucket": "alwar-team.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077194786297:android:c2c4f244c74466ef756928",
+        "android_client_info": {
+          "package_name": "com.flutter.alwar_team"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077194786297-p2qopc8g5i5eg62s1i10m4dul3scuh5a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutter.alwar_team",
+            "certificate_hash": "dbb54d81de3b1d7f0dd538b312634be00917b31b"
+          }
+        },
+        {
+          "client_id": "1077194786297-qg3krg60igq4s1qc5t80t8lkrt92f4je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfDLfcrXf0_1j1HrK-j3rvnCllt_GvEdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077194786297-qg3krg60igq4s1qc5t80t8lkrt92f4je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
